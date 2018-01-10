@@ -1,4 +1,4 @@
 # hello-world
 Learning repository
 
-This is my first edit of a github branched file.
+This is my second edit of a github hello-world master file.
